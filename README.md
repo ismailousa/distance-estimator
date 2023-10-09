@@ -8,7 +8,7 @@ This project is a real-time object distance estimator that uses a live stream fr
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Object Detection Model](#object-detection-model
+- [Object Detection Model](#object-detection-model)
 - [How It Works](#how-it-works)
 - [Customization](#customization)
 - [License](#license)
@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:
 
    ```bash
-   cd object-distance-estimator
+   cd distance-estimator
    ```
 
 3. Use Poetry to install the project dependencies:
