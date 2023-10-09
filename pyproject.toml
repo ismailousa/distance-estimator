@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "distance-estimator"
+version = "0.1.0"
+description = ""
+authors = ["Isma-Ilou Sadou <ismailou.sa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+opencv-python = "^4.8.1.78"
+pillow = "^10.0.1"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
